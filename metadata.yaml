@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0306-Een-avontuur-van-Koning-Alfonso_72494
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72494#Lord-Lister-No-0306-Een-avontuur-van-Koning-Alfonso
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
